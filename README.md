@@ -2,7 +2,7 @@
 
 StreamPay GUI Wallet is a user-friendly software application designed to simplify the management of cryptocurrency holdings and transactions. 
 
-**features and functionalities of the StreamPay GUI Wallet:**
+**Features and functionalities of the StreamPay GUI Wallet:**
 
 1. **Wallet Creation:** Users can easily create new cryptocurrency wallets, each with its unique address, making it convenient to manage multiple cryptocurrencies.
 
